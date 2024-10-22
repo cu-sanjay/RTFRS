@@ -19,6 +19,8 @@ RTFRS is built using machine learning and computer vision techniques to identify
 - **Not detecting your face?** Ensure the camera has a clear view.
 - **"Why is it recognizing my dog as my best friend?"**: Well, dogs are better than most humans anyway. ❤️
 
+> For a more detailed guide on running the project - **[Click Here](./USAGE.md)**
+
 ## License
 
 This project is licensed under the MIT License. Basically, you can do whatever you want with it, just don’t blame us if it starts recognizing your room objects as friends.
