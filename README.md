@@ -1,23 +1,22 @@
 # RTFRS - Real-Time Face Detection and Recognition System
 
-The only thing more reliable than your ex's excuses is our face detection system. Just kidding.. We can't guarantee it will recognize your ex, but it can definitely spot all the living humans and animals around you...
+## About
+
+RTFRS (**Real-Time Face Detection and Recognition System**) is a computer vision project designed to detect and recognize faces in real-time.
 
 ## What is RTFRS?
 
-RTFRS stands for **Real-Time Face Detection and Recognition System**. It's like having a unknown person at the door of your life, but instead of checking their Insta and Snap, it checks their true faces. Our system is designed to detect and recognize faces in real-time, ensuring that no one comes to your life without your knowledge.
-
-### But can it recognize my ex?
-Ah, the eternal question.. Yeahh RTFRS is a great project in Computer Vision and Machine Learning but it can't guarantee that it'll recognize your ex’s actual face. After all, we’re still waiting for the dataset of their personality.. 🥴💔
+RTFRS is built using machine learning and computer vision techniques to identify and recognize faces efficiently. Whether you're using it for personal projects or exploring facial recognition technology, it's a handy tool for real-time face detection. Just drop your photos in the designated folder, and RTFRS will do the rest.
 
 ## Features
 
-- **Real-Time Detection**: Faster than your friend who says they pick up your calls instantly.
-- **Face Recognition**: Remembers faces better than she remembers your birthday (sorry).
-- **Dataset**: Just drop your photos in the PHOTOS/Train folder, and that's it.
+- **Real-Time Detection**: Quick and responsive facial detection.
+- **Face Recognition**: Accurately identifies faces in your custom dataset.
+- **Easy Setup**: Add photos to the **📁 Faces/Train** folder and get started.
 
 ## Troubleshooting
 
-- **"I can't find my face!"**: Don’t worry; it’s not personal. Just make sure you’re facing the camera and not hiding behind the pain she gave.
+- **Not detecting your face?** Ensure the camera has a clear view.
 - **"Why is it recognizing my dog as my best friend?"**: Well, dogs are better than most humans anyway. ❤️
 
 ## License
